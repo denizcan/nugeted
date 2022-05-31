@@ -1,0 +1,2 @@
+# nugeted
+Nuget Easy Debug
